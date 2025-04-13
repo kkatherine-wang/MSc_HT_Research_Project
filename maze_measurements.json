@@ -1,0 +1,12 @@
+{
+    "maze_node_dimensions": [
+        7,
+        7
+    ],
+    "lower_left_node_cartesian_center": [
+        0.15,
+        0.15
+    ],
+    "distance_between_node_centers": 0.18,
+    "tower_width": 0.11
+}
